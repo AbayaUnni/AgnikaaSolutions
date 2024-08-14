@@ -7313,11 +7313,11 @@ h1, h2, h3, h4, h5,
       background: #000 !important;
       position: relative; } }
   .ftco-navbar-light .navbar-brand {
-    color: #EF1B23;
+    color: #ED1C24;
     font-family: "Josefin Sans", Arial, sans-serif; }
     @media (min-width: 768px) {
       .ftco-navbar-light .navbar-brand {
-        color: #EF1B23; } }
+        color: #ED1C24; } }
   .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
     font-size: 14px;
     padding-top: .9rem;
@@ -7386,7 +7386,7 @@ h1, h2, h3, h4, h5,
   .ftco-navbar-light .navbar-nav > .nav-item.cta.cta-colored span {
     border-color: #fac564; }
   .ftco-navbar-light .navbar-nav > .nav-item.active > a {
-    color: #EF1B23; }
+    color: #ED1C24; }
   .ftco-navbar-light .navbar-toggler {
     border: none;
     color: rgba(255, 255, 255, 0.8) !important;
@@ -7407,7 +7407,7 @@ h1, h2, h3, h4, h5,
     .ftco-navbar-light.scrolled .nav-item > .nav-link {
       color: #fff !important; }
     .ftco-navbar-light.scrolled .nav-item.active > a {
-      color: #EF1B23 !important; }
+      color: #ED1C24 !important; }
     .ftco-navbar-light.scrolled .nav-item.cta > a {
       color: #fff !important;
       background: #fac564;
@@ -7462,7 +7462,7 @@ h1, h2, h3, h4, h5,
       -o-transition: .3s all ease-out;
       transition: .3s all ease-out; }
     .ftco-navbar-light.scrolled .navbar-brand {
-      color: #EF1B23; }
+      color: #ED1C24; }
 
 .navbar-brand {
   font-size: 24px;
@@ -7548,7 +7548,7 @@ h1, h2, h3, h4, h5,
         .owl-carousel.home-slider .slider-item .slider-text .subheading {
           font-family: "Nothing You Could Do", cursive;
           font-size: 30px;
-          color: #920013; }
+          color: #ED1C24; }
         .owl-carousel.home-slider .slider-item .slider-text h1 {
           text-transform: uppercase;
           font-size: 40px;
@@ -7805,7 +7805,7 @@ h1, h2, h3, h4, h5,
     right: 0;
     bottom: 0;
     content: '';
-    bordeR: 1px solid #bf7e06;
+    bordeR: 1px solid #042742;
     z-index: -1;
     -moz-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
@@ -7814,7 +7814,7 @@ h1, h2, h3, h4, h5,
     transition: all 0.3s ease; }
   .services .icon span {
     font-size: 60px;
-    color: #5c3d03;
+    color: #042742;
     z-index: 1; }
 
 .services h3 {
@@ -7834,7 +7834,7 @@ h1, h2, h3, h4, h5,
   -webkit-transform: rotate(135deg);
   -ms-transform: rotate(135deg);
   transform: rotate(135deg);
-  background: #f8b500; }
+  background: #042742; }
 
 .services-wrap {
   width: 100%;
@@ -8318,7 +8318,7 @@ textarea.form-control {
     .heading-section h2 {
       font-size: 28px; } }
   .heading-section h2 span {
-    color: #EF1B23; }
+    color: #ED1C24; }
 
 .heading-section p.flip {
   position: relative;
@@ -8643,7 +8643,7 @@ textarea.form-control {
       height: 40px;
       line-height: 40px;
       border-radius: 50%;
-      border: 1px solid #bf7e06; }
+      border: 1px solid #042742; }
     .block-27 ul li.active a, .block-27 ul li.active span {
       background: #fac564;
       color: #fff;
@@ -8768,7 +8768,7 @@ textarea.form-control {
   margin-right: 4px;
   border-radius: 4px;
   color: #b3b3b3;
-  border: 1px solid #bf7e06;
+  border: 1px solid #042742;
   font-size: 11px; }
   .tagcloud a:hover {
     border: 1px solid #000; }
