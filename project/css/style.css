@@ -62,7 +62,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff; }
+  background-color: #042742; }
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
@@ -7269,12 +7269,12 @@ a.text-dark:hover, a.text-dark:focus {
 
 body {
   font-family: "Poppins", Arial, sans-serif;
-  background: #121618;
+  background: #042742;
   font-size: 15px;
   line-height: 1.8;
   font-weight: 300;
   color: gray;
-  background: url(../images/bg_4.jpg) no-repeat fixed;
+  /* background: url(../images/bg_4.jpg) no-repeat fixed; */
   background-size: cover; }
   body.menu-show {
     overflow: hidden;
@@ -7306,7 +7306,7 @@ h1, h2, h3, h4, h5,
   color: #fac564 !important; }
 
 .ftco-navbar-light {
-  background: #373737 !important;
+  background: #042742 !important;
   z-index: 3; }
   @media (max-width: 991.98px) {
     .ftco-navbar-light {
@@ -7335,7 +7335,7 @@ h1, h2, h3, h4, h5,
         padding-right: 20px;
         color: rgba(255, 255, 255, 0.7); } }
     .ftco-navbar-light .navbar-nav > .nav-item > .nav-link:hover {
-      color: #fac564; }
+      color: #fff !important; }
   .ftco-navbar-light .navbar-nav > .nav-item .dropdown-menu {
     border: none;
     background: #fff;
@@ -7401,11 +7401,11 @@ h1, h2, h3, h4, h5,
     left: 0;
     top: 0;
     margin-top: -130px;
-    background: #373737 !important; 
+    background: #042742 !important; 
     -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1); }
     .ftco-navbar-light.scrolled .nav-item > .nav-link {
-      color: #fff !important; }
+      color: rgba(255, 255, 255, 0.7) !important; }
     .ftco-navbar-light.scrolled .nav-item.active > a {
       color: #ED1C24 !important; }
     .ftco-navbar-light.scrolled .nav-item.cta > a {
@@ -7722,7 +7722,7 @@ h1, h2, h3, h4, h5,
 .ftco-intro .wrap {
   width: 100%; }
   .ftco-intro .wrap .info {
-    background: #464646;
+    background: #0c1748;
     padding: 30px; }
     @media (min-width: 1200px) {
       .ftco-intro .wrap .info {
@@ -7735,7 +7735,7 @@ h1, h2, h3, h4, h5,
       margin-bottom: 0; }
   .ftco-intro .wrap .social {
     width: 35%;
-    background: #a2a2a2; }
+    background: #2c366c; }
     @media (max-width: 767.98px) {
       .ftco-intro .wrap .social {
         width: 100%; } }
